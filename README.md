@@ -73,11 +73,6 @@ Electric_Vehicle_Analysis_Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Preview](D:\Downloads\Electric_Vehicle_Analysis_Dashboard_Screenshorts.PNG)
-
----
-
 ## 🧩 Key Learnings
 - End-to-end Power BI dashboard development workflow.  
 - KPI definition and visual storytelling using DAX and visuals.  
