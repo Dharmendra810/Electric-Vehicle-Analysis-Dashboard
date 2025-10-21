@@ -74,7 +74,8 @@ Electric_Vehicle_Analysis_Dashboard/
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](<img width="1363" height="696" alt="Electric_Vehicle_Analysis_Dashboard_Screenshorts" src="https://github.com/user-attachments/assets/68430731-9e95-4b6c-969c-a0e1b64a6ed2" />
+)
 
 ---
 
